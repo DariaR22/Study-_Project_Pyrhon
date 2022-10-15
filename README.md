@@ -7,8 +7,8 @@
 **Technology:** Python (Pandas)  
 **Results:** recieved information about students who have successfully completed the course, found the most difficult and simplest exam, the average period of passing exams in each subject, the most popular courses by the number of registrations and courses with the largest outflow, semester with the lowest completion of courses and the longest average terms of completion of courses.   
 
-## Analysis of the drivers outflow
-**Code:** [Python_Project_2.ipynb](https://github.com/DariaR22/Study_Projects_Python/blob/main/Python_Project_2.ipynb)  
+## Analysis of the driver outflow
+**Code:** [Driver Outflow Analysis.ipynb](https://github.com/DariaR22/Study_Projects_Python/blob/main/Driver%20Outflow%20Analysis.ipynb)  
 **Description:** There is data from taxi company (uber) that wants to study the outflow of drivers and see what differences there are between drivers who leave the service and who stay. It is necessary to formulate and test hypotheses, identify groups of drivers who are most susceptible to "churn" and conduct statistical tests. Based on the results, it is required to draw conclusions about what can be improved in the service in order to make changes in the future.    
 **Skills:** data cleaning, detecting data anomalies, data visualization, descriptive statistics, Shapiro–Wilk test, data transforms, Mann–Whitney U test, chi-square, defining metrics.  
 **Technology:** Python (Pandas, Numpy, Scipy Stats, Seaborn, Matplotlib, Plotly)  
