@@ -18,5 +18,5 @@
 **Code:** [Analysis of AB test results on the website.ipynb](https://github.com/DariaR22/Study_Projects_Python/blob/main/Analysis%20of%20AB%20test%20results%20on%20the%20website.ipynb)  
 **Description:** We have the result of A/B testing. During the testing of one hypothesis, the target group was offered a new mechanics of paying for services on the site, the control group remained with the basic mechanics. It is necessary to analyze the results of the experiment and conclude whether it is worth launching a new payment mechanism for all users or not.  
 **Skills:** data cleaning, detecting data anomalies, data analysis, data visualization, descriptive statistics,  data transforms, defining metrics, normality test, Levene test, Bootstrap method.
-**Technology:** Python (Pandas, Numpy, Pingouin, Scipy Stats, Seaborn, Matplotlib, Plotly, tqdm)
+**Technology:** Python (Pandas, Numpy, Pingouin, Scipy Stats, Seaborn, Matplotlib, Plotly, tqdm)  
 **Results:** analyzed A/B test results, tested hypothesis, detected statistically significant results, made conclusion on launching a new payment mechanism
