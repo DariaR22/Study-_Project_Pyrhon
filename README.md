@@ -14,8 +14,8 @@
 **Technology:** Python (Pandas, Numpy, Scipy Stats, Seaborn, Matplotlib, Plotly)  
 **Results:** tested hypothesis, detected statistically significant results and offered recommendations
 
-## Analysis of AB test results on the website
-**Code:** [Analysis of AB test results on the website.ipynb](https://github.com/DariaR22/Study_Projects_Python/blob/main/Analysis%20of%20AB%20test%20results%20on%20the%20website.ipynb)  
+## Analysis of A/B test results on the website
+**Code:** [Analysis of A/B test results on the website.ipynb](https://github.com/DariaR22/Study_Projects_Python/blob/main/Analysis_of_AB_test_results_on_the_website.ipynb)  
 **Description:** We have the result of A/B testing. During the testing of one hypothesis, the target group was offered a new mechanics of paying for services on the site, the control group remained with the basic mechanics. It is necessary to analyze the results of the experiment and conclude whether it is worth launching a new payment mechanism for all users or not.  
 **Skills:** data cleaning, detecting data anomalies, data analysis, data visualization, descriptive statistics,  data transforms, defining metrics, normality test, Levene test, Bootstrap method.  
 **Technology:** Python (Pandas, Numpy, Pingouin, Scipy Stats, Seaborn, Matplotlib, Plotly, tqdm)  
